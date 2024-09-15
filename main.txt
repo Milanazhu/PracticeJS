@@ -1,0 +1,4 @@
+$ git add main.html
+$ git commit -m "Добавить главную страницу"
+$ git log --oneline
+777fec3 Добавить главную страницу 
