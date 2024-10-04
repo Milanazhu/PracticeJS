@@ -23,6 +23,6 @@ function globalFn() {
 }
 
 globalFn();
-console.log(globalVar, a);
+console.log(globalVar);
 
 //Мы имеем доступ только к внутренним областя и к областям видимости выше, но не рядом
