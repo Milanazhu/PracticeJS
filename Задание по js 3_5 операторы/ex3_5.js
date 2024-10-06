@@ -7,5 +7,6 @@ if ((isSunny && temperature) && hasUmbrella) {
     console.log("Пикник устроить нелья");
 };
 
+//Делаю пр с помощью гита
 
 
